@@ -1,0 +1,63 @@
+body {
+    background-color: #FCEFEF;
+    color: #4D555B;
+}
+
+.btn-primary {
+    background-color: #1B768E;
+    border-color: #1B768E;
+}
+
+.btn-primary:hover {
+    background-color: #012538;
+    border-color: #012538;
+}
+
+.btn-secondary {
+    background-color: #FB9833;
+    border-color: #FB9833;
+}
+
+.btn-secondary:hover {
+    background-color: #FCEFEF;
+    border-color: #FB9833;
+    color: #FB9833;
+}
+
+.table {
+    border-color: #4D555B;
+}
+
+.table th, .table td {
+    border-color: #4D555B;
+}
+
+.table-bordered th, .table-bordered td {
+    border-color: #4D555B;
+}
+
+.modal-content {
+    background-color: #FCEFEF;
+    color: #4D555B;
+}
+
+.modal-header {
+    border-bottom: 1px solid #4D555B;
+}
+
+.modal-footer {
+    border-top: 1px solid #4D555B;
+}
+
+.btn-close {
+    color: #4D555B;
+}
+
+.btn-close:hover {
+    color: #012538;
+}
+
+.bg-success {
+    background-color: #1B768E;
+    border-color: #1B768E;
+}
